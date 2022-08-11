@@ -1,0 +1,17 @@
+.main {
+    border: 10px solid #0000ff;
+    text-align: center;
+    } 
+h1 {
+    border: 10px solid #0000ff;
+    background-color: #0000ff;
+    margin-top: -10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+p {
+    border: 10px solid #0000ff;
+    text-align: center;
+    margin-top: -22px;
+}
